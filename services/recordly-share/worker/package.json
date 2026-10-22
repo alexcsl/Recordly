@@ -12,5 +12,8 @@
     "@cloudflare/vitest-pool-workers": "^0.9.12",
     "vitest": "^3.2.0",
     "wrangler": "^4.98.0"
+  },
+  "engines": {
+    "node": ">=22.23.4 <23 || >=24.22.1 <25 || >=26.12.1 <27"
   }
 }
